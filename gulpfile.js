@@ -39,6 +39,7 @@ gulp.task('scss:compile', () => {
 
 gulp.task('default', gulp.series(['scss:compile']));
 //https://blog.thereis.xyz/80?category=660023 
+//https://sharkcoder.com/tools/gulp
 
 
 // function 이용한 버전 
